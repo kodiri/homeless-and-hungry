@@ -1,1 +1,1 @@
-# Welcome to the Homeless And Hungre app
+# Welcome to the Homeless And Hungry app
