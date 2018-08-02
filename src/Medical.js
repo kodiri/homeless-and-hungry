@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './Medical.css';
-import Icons from './Icons/MedicalIconBlue.png';
+import MedicalIconBlue from './Icons/MedicalIconBlue.png';
 
 class Medical extends Component {
   render() {
     return (
       <div className="App">
-        <Icons />
+        <MedicalIconBlue />
         <p>This is the Medical Component</p>
       </div>
     );
