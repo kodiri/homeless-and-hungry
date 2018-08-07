@@ -1,10 +1,17 @@
 import React from 'react';
 import './Header.css';
-import '../node_modules/font-awesome/css/font-awesome.min.css'; 
+
+export  class Header extends React.Component {
+    render() {
+        return (
+            <div>
+
+            </div>
+        )
+    }
+} 
 
 
-export default class Header extends React.Component {
 
 
 
-}
