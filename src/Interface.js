@@ -3,6 +3,7 @@ import './Interface.css';
 import AccommodationIconBlue from './Icons/AccommodationIcon.svg';
 import FoodIconBlue from './Icons/FoodIcon.svg';
 import HelpIconBlue from './Icons/HelpIcon.svg';
+import HelpIconBlue from './Icons/AccommodationIcon.svg';
 import ClothingIconBlue from './Icons/ClothingIcon.svg';
 import MedicalIconBlue from './Icons/MedicalIcon.svg';
 import WashingIconBlue from './Icons/WashingIcon.svg';
