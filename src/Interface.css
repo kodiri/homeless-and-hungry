@@ -1,17 +1,62 @@
 .container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     background-color: white;
+    width: 100%;
+    flex-direction: column;
 }
+
+.Logo {
+    width: 50%;
+    Height: 50%;
+    margin: 0 auto;
+    text-align: center;
+    display:block;
+}
+
+.Main-header {
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    padding: 20px;
+    color: white;
+  }
+
+.box{
+    flex: 1;
+    justify-content: center;
+    background-color: white;
+
+    }
 
 .MainHeading {
     font-size: 1.5em;
+    color: blue;
+    text-align: center;
 }
 
 .IntroText{
     font-size: large;
+    text-emphasis: strong;
+    color: black;
+    text-align: center;
 }
 
-.Btn{
-    `
+.Icon{
+    height: 150px;
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+    display:block;
+}
+
+.App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+
+  .App {
+    text-align: center;
 }
