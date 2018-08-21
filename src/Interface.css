@@ -1,7 +1,7 @@
 .container {
     display: flex;
     justify-content: center;
-    background-color: white;
+    background-color: lightgrey;
     width: 100%;
     flex-direction: column;
 }
@@ -11,8 +11,40 @@
     Height: 50%;
     margin: 0 auto;
     text-align: center;
-    display:block;
+    display: block;
 }
+
+.Btn{
+   display: flex;
+   width: 300px;
+   height: 75px;
+   margin: 0 auto;
+   justify-content: center;
+   align-items: center;
+   border-radius: 20px;
+   background-color: rgba(72, 133, 237, 255);
+   text-align: center;
+   font-size: 1.5em;
+   text-emphasis: strong;
+   font-weight: bold;
+   color: white;
+}
+
+.Btn:Hover {
+   display: flex;
+   width: 300px;
+   height: 75px;
+   margin: 0 auto;
+   justify-content: center;
+   align-items: center;
+   border-radius: 20px;
+   background-color: rgba(72, 133, 237, 255);
+   text-align: center;
+   font-size: 1.5em;
+   text-emphasis: strong;
+   font-weight: bold;
+   color: gold;
+    }
 
 .Main-header {
     background-color: white;
@@ -21,11 +53,20 @@
     padding: 20px;
     color: white;
   }
+.MasterBox{
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    width: 100%;
+    padding: 30px;
+
+}
+
 
 .box{
     flex: 1;
     justify-content: center;
-    background-color: white;
+    background-color: lightgrey;
 
     }
 
@@ -43,8 +84,8 @@
 }
 
 .Icon{
-    height: 150px;
-    width: 150px;
+    height: 50%;
+    width: 50%;
     margin: 0 auto;
     text-align: center;
     display:block;
