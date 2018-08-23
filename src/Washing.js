@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './Washing.css';
-import WashingIconBlue from './Icons/WashingIconBlue';
+import WashingIcon from './Icons/WashingIcon.svg';
 
-class Help extends Component {
+class Washing extends Component {
     render() {
         return (
             <div className="body">
-            <WashingIconBlue />
+            <img src={WashingIcon} className="Icon" alt="Washing Icon" />
                 <p className="intro">  This is the Washing component</p>
             </div>
         );
