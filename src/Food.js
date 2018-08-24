@@ -1,13 +1,13 @@
 import React from 'react';
 import './Food.css';
-import FoodIconBlue2 from './Icons/FoodIconBlue2.png';
+import FoodIcon from './Icons/FoodIcon.svg';
 
 
-export class Food extends React.Component {
+export default class Food extends React.Component {
     render() {
         return (
             <div>
-                <FoodIconBlue2 />
+                <img src={FoodIcon} className="Icon" alt="Food Icon" />
             </div>
         )
     }

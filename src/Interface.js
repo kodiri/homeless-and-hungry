@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import './Interface.css';
 import AccommodationIconBlue from './Icons/AccommodationIcon.svg';
 import FoodIconBlue from './Icons/FoodIcon.svg';
@@ -7,9 +8,6 @@ import ClothingIconBlue from './Icons/ClothingIcon.svg';
 import MedicalIconBlue from './Icons/MedicalIcon.svg';
 import WashingIconBlue from './Icons/WashingIcon.svg';
 import HomelessHungryLogo from './Icons/HomelessHungryLogov2.svg';
-
-
-
 
 
 class Interface extends Component {
@@ -42,7 +40,9 @@ class Interface extends Component {
             <div><p className="IntroText">
               Find accommodation within London.</p>
             </div>
+            <Link to='/accomodation'>
             <div className="Btn"><label>Find Accommodation</label></div>
+            </Link>
           </div>
 
           <div className="box">
@@ -57,7 +57,9 @@ class Interface extends Component {
             </p>
             </div>
             <div>
+              <Link to='/food'>
             <div className="Btn"><label>Find Food</label></div>
+            </Link>
             </div>
 
           </div>
@@ -75,7 +77,9 @@ class Interface extends Component {
             </p>
             </div>
             <div>
+              <Link to='/clothing'>
             <div className="Btn"><label>Find Clothing</label></div>
+            </Link>
             </div>
           </div>
 
@@ -91,7 +95,9 @@ class Interface extends Component {
             </p>
             </div>
             <div>
+              <Link to='/washing'>
             <div className="Btn"><label>Find Washing Facilities</label></div>
+            </Link>
             </div>
           </div>
         </div>
@@ -109,7 +115,9 @@ class Interface extends Component {
             </p>
             </div>
             <div>
+            <Link to='/medical'>
             <div className="Btn"><label>Find Medical Services</label></div>
+            </Link>
             </div>
           </div>
           <div className="box">
@@ -123,7 +131,9 @@ class Interface extends Component {
             </p>
             </div>
             <div>
+              <Link to='/help'>
             <div className="Btn"><label>Find Help & Assistance</label></div>
+            </Link>
             </div>
           </div>
         </div>
@@ -134,11 +144,9 @@ class Interface extends Component {
             </div>
           </div>
         </div>
-
       </div >
 
     );
-
   }
 }
 
