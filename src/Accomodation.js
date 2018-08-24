@@ -1,14 +1,13 @@
 import React from 'react';
 import './Accomodation.css';
-import AccommodationIconBlue from './Icons/AccommodationIconBlue.png';
+import AccommodationIcon from './Icons/AccommodationIcon.svg';
 
-export class Accommodation extends React.Component {
+export default class Accommodation extends React.Component {
     render() {
-        return(
+        return (
             <div>
-                <AccommodationIconBlue />
+                <img src={AccommodationIcon} className="Icon" alt="Accommodation Icon" />
             </div>
-
-        )
+        );
     }
 }
