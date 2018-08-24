@@ -18,7 +18,7 @@ class Interface extends Component {
           <div className="Box">
             <div><img src={HomelessHungryLogo} className="Logo" alt="Homeless and Hungry Logo" />
             </div>
-            <div><h1 className="MainHeading">Welcome to the Hungry and Homeless App.</h1>
+            <div><h1 className="MainHeading">Welcome to the Homeless and Hungry App.</h1>
               <div><h1 className="IntroText">Your one stop for services for homeless people.</h1>
                 <div><h1 className="IntroText">Find accommodation, food, fresh clothing, somewhere to wash, medical attention and also help and support.</h1>
                   <div><h1 className="IntroText">Simply click on the icon for the section you need.</h1>
