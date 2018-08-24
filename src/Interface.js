@@ -6,7 +6,7 @@ import HelpIconBlue from './Icons/HelpIcon.svg';
 import ClothingIconBlue from './Icons/ClothingIcon.svg';
 import MedicalIconBlue from './Icons/MedicalIcon.svg';
 import WashingIconBlue from './Icons/WashingIcon.svg';
-import HomelessHungryLogo from './Icons/HomelessHungryLogo2.png';
+import HomelessHungryLogo from './Icons/HomelessHungryLogov2.svg';
 
 
 
