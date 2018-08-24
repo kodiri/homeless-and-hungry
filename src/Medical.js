@@ -7,7 +7,7 @@ class Medical extends Component {
     return (
       <div className="App">
         <img src={MedicalIcon} className="Icon" alt="Medical Icon" />
-        <div className='AccommodationItems'>
+        <div className='MecdicalItems'>
                     <div className='item'>
                         <h4>Kings Cross Primary Health Care Centre</h4>
                         <p>Drop-in primary health care service for homeless people. Doctor and nurse available. 
