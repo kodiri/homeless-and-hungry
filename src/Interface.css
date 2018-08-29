@@ -10,8 +10,8 @@
 
 .Logo {
     display: flex;
-    width: 100%;
-    Height: 100%;
+    width: 75%;
+    Height: 75%;
     margin: 0 auto;
     text-align: center;
     display: block;
@@ -58,8 +58,8 @@
 }
 
 .MasterBox{
-    display: block;
-    flex: wrap;
+    display: flex;
+    flex-flow: wrap;
     justify-content: center;
     background-color: lightgrey;
     width: 100%;
@@ -88,8 +88,8 @@
 }
 
 .Icon{
-    height: 50%;
-    width: 50%;
+    height: 40%;
+    width: 40%;
     margin: 0 auto;
     text-align: center;
     display:block;
