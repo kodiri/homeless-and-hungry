@@ -140,7 +140,8 @@ class Interface extends Component {
 
         <div className="MasterBox">
           <div className="box">
-            <div><h1 className="IntroText">Footer Text to be added</h1>
+            <div><h1 className="IntroText">Built on the Kodiri Bootcamp</h1>
+            <div><h1 className="IntroText">Aaron King | Viktoriya Emilova | David Smith </h1></div>
             </div>
           </div>
         </div>
