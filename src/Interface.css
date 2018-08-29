@@ -1,5 +1,6 @@
 .container {
     display: flex;
+    flex: wrap;
     align-items: top;
     justify-content: center;
     background-color: lightgrey;
@@ -9,8 +10,8 @@
 
 .Logo {
     display: flex;
-    width: 100%;
-    Height: 100%;
+    width: 75%;
+    Height: 75%;
     margin: 0 auto;
     text-align: center;
     display: block;
@@ -54,14 +55,14 @@
     width: 100%;
     padding: 20px;
     color: white;
-  }
+}
+
 .MasterBox{
     display: flex;
+    flex-flow: wrap;
     justify-content: center;
     background-color: lightgrey;
     width: 100%;
-    padding: 30px;
-
 }
 
 
@@ -69,6 +70,7 @@
     flex: 1;
     justify-content: center;
     background-color: lightgrey;
+    padding-bottom: 30px;
 
     }
 
@@ -86,8 +88,8 @@
 }
 
 .Icon{
-    height: 50%;
-    width: 50%;
+    height: 40%;
+    width: 40%;
     margin: 0 auto;
     text-align: center;
     display:block;
@@ -103,3 +105,13 @@
   .App {
     text-align: center;
 }
+
+@media only screen and (max-width: 480px) {
+    .container {
+        display: block;
+    }
+    body {
+        background-color: lightgrey;
+    }
+  
+  }
