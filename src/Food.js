@@ -18,7 +18,7 @@ export default class Food extends React.Component {
                             <li>Monday – Friday: 10am–4pm (tea, coffee, biscuits)</li>
                             <li>Address: 235 Shaftesbury Ave, London WC2H 8EP</li>
                             <li>Phone: 020 7240 0544</li>
-                            <li>Website: <a href='http://www.bloomsbury.org.uk'>http://www.bloomsbury.org.uk</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.bloomsbury.org.uk'>http://www.bloomsbury.org.uk</a></li>
                         </ol>
                     </div>
                     <div className='item'>
@@ -31,7 +31,7 @@ export default class Food extends React.Component {
                             <li>Thursday – Saturday: 10am–12am</li>
                             <li>Address: 79A Tottenham Court Rd, London W1T 4TD</li>
                             <li>Phone: 020 7580 2791</li>
-                            <li>Website: <a href='http://amchurch.co.uk/soup-kitchen/'>http://amchurch.co.uk/soup-kitchen/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://amchurch.co.uk/soup-kitchen/'>http://amchurch.co.uk/soup-kitchen/</a></li>
                         </ol>
                     </div>
                     <div className='item'>
@@ -44,7 +44,7 @@ export default class Food extends React.Component {
                             <li>Sunday: 8am–9am</li>
                             <li>Address: 217/223 Kingsland Rd, Hackney, London E2 8AN</li>
                             <li>Phone: 20 7729 4375</li>
-                            <li>Website: <a href='http://cacbethel.org/dev/'>http://cacbethel.org/dev/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://cacbethel.org/dev/'>http://cacbethel.org/dev/</a></li>
                         </ol>
                         <div className='item'>
                             <h5>EALING SOUP KITCHEN</h5>
@@ -56,7 +56,7 @@ export default class Food extends React.Component {
                                 <li>Monday: 7pm–9pm</li>
                                 <li>Address: St John's Church Hall, Mattock Lane, London W13 9LA</li>
                                 <li>Phone: 0208 840 0651</li>
-                                <li>Website: <a href='http://www.havengreen.org.uk/ealingsoupkitchen.html'>http://www.havengreen.org.uk/ealingsoupkitchen.htm</a></li>
+                                <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.havengreen.org.uk/ealingsoupkitchen.html'>http://www.havengreen.org.uk/ealingsoupkitchen.htm</a></li>
                             </ol>
                         </div>
                         <div class='item'>
@@ -66,7 +66,7 @@ export default class Food extends React.Component {
                                 <li>Opening Hours: </li>
                                 <li>Monday – Sunday: 7:30pm–8:30pm</li>
                                 <li>Address: 65 Blackhorse Road, Walthamstow, London E17 7AS</li>
-                                <li>Website: <a href='http://www.christiankitchen.co.uk/'>http://www.christiankitchen.co.uk/</a> </li>
+                                <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.christiankitchen.co.uk/'>http://www.christiankitchen.co.uk/</a> </li>
                             </ol>
                         </div>
                     </div>

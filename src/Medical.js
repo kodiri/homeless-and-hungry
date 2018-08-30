@@ -42,7 +42,7 @@ class Medical extends Component {
                             <li>Address: 13 Great Chapel Street, London W1F 8FL</li>
                             <li>Phone: 020 7437 9360</li>
                             <li>Email: info@greatchapelst.org.uk</li>
-                            <li>Website: <a href='http://www.greatchapelst.org.uk'>http://www.greatchapelst.org.uk</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.greatchapelst.org.uk'>http://www.greatchapelst.org.uk</a></li>
                         </ol>
                     </div>
                     <div classname='item'>
@@ -55,7 +55,7 @@ class Medical extends Component {
                             <li>Address: 3 Arneway Street, London SW1P 2BG</li>
                             <li>Phone: 020 7222 8593</li>
                             <li>Email: info@cardinalhumecentre.org.uk</li>
-                            <li>Website: <a href='http://www.cardinalhumecentre.org.uk'>http://www.cardinalhumecentre.org.uk</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.cardinalhumecentre.org.uk'>http://www.cardinalhumecentre.org.uk</a></li>
                         </ol>
                     </div>
                     <div className='item'>
@@ -66,7 +66,7 @@ class Medical extends Component {
                         <ol>
                             <li>Address: 190 Vauxhall Bridge Road, London SW1V 1DX</li>
                             <li>Phone: 020 7854 4206</li>
-                            <li>Website: <a href='http://www.cnwl.nhs.uk/service/joint-homelessness-team/'>http://www.cnwl.nhs.uk/service/joint-homelessness-team/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.cnwl.nhs.uk/service/joint-homelessness-team/'>http://www.cnwl.nhs.uk/service/joint-homelessness-team/</a></li>
                         </ol>
                     </div>
                 </div>
