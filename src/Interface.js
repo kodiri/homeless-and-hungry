@@ -145,11 +145,8 @@ class Interface extends Component {
               <a target="_blank"
                 rel="noopener noreferrer"
                 href='https://www.linkedin.com/in/aaron-king-420266167/'>
-                Aaron King</a> | &nbsp; 
-                <a target="_blank"
-                  rel="noopener noreferrer"
-                  href='https://www.caritasanchorhouse.org.uk/'>
-                  Viktoriya Emilova</a> |&nbsp;  
+                Aaron King</a> |&nbsp; 
+              Viktoriya Emilova |&nbsp;  
                 <a target="_blank"
                   rel="noopener noreferrer"
                   href='https://www.linkedin.com/in/david-smith-62b0aa169/'>
