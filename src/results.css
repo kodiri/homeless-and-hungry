@@ -42,5 +42,12 @@
     font-weight: bold;
     color: gold;
  }
- 
+ .Icon{
+    height: 40%;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    display:block;
+}
+
  
