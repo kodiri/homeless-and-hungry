@@ -15,7 +15,7 @@ export default class Accommodation extends React.Component {
                         <ol>,
                             <li>Address: 81 Barking Road, Canning Town, London E16 4HB</li>
                             <li>Phone: 0207 476 6062</li>
-                            <li>Website: <a href='https://www.caritasanchorhouse.org.uk/'>https://www.caritasanchorhouse.org.uk/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='https://www.caritasanchorhouse.org.uk/'>https://www.caritasanchorhouse.org.uk/</a></li>
                         </ol>
                     </div>
                     <div className='item'>
@@ -28,7 +28,7 @@ export default class Accommodation extends React.Component {
                             <li>Wednesday - Friday: 9am–2pm</li>
                             <li>Address: Queen's Gate (St Augustin's), London SW7 5LP</li>
                             <li>Phone: 020 7590 8248</li>
-                            <li>Website: <a href='https://www.htb.org/'>https://www.htb.org/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='https://www.htb.org/'>https://www.htb.org/</a></li>
                         </ol>
                     </div>
                     <div className='item'>
@@ -40,7 +40,7 @@ export default class Accommodation extends React.Component {
                             <li>Monday – Friday: 9am–5pm</li>
                             <li>Address: 22 Linden Grove, London SE15 3LF</li>
                             <li>Phone: 020 7277 6264</li>
-                            <li>Website: <a href='http://www.kairoscommunity.org.uk/'>http://www.kairoscommunity.org.uk/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.kairoscommunity.org.uk/'>http://www.kairoscommunity.org.uk/</a></li>
                         </ol>
                     </div>
                     <div classname='item'>
@@ -53,7 +53,7 @@ export default class Accommodation extends React.Component {
                             <li>Saturday - Sunday: 1pm–3pm</li>
                             <li>Address: 129 Malden Road, Kentish Town, London NW5 4HS</li>
                             <li>Phone: 020 7485 6639</li>
-                            <li>Website: <a href='https://www.simoncommunity.org.uk/'>https://www.simoncommunity.org.uk/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='https://www.simoncommunity.org.uk/'>https://www.simoncommunity.org.uk/</a></li>
                         </ol>
                     </div>
                     <div className='item'>
@@ -65,7 +65,7 @@ export default class Accommodation extends React.Component {
                             <li>Monday–Friday: 8:30am–5pm </li>
                             <li>Address: 17-18 Pownall Gardens, Hounslow, London TW3 1YW</li>
                             <li>Phone: 020 8737 6611</li>
-                            <li>Website: <a href='http://www.wearetrinity.org.uk/'>http://www.wearetrinity.org.uk/</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.wearetrinity.org.uk/'>http://www.wearetrinity.org.uk/</a></li>
                         </ol>
                     </div>
                 </div>
