@@ -75,7 +75,7 @@ export default class Accommodation extends React.Component {
                                 </div>
                             </div>
                             <break></break>
-                            <Link to='/Interface'>
+                            <Link to='/'>
               <div className="Btn"><label>Main Menu</label></div>
             </Link>
                         </div>
