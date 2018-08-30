@@ -19,7 +19,7 @@ class Help extends Component {
                             <li>Monday – Friday: 10am–4pm</li>
                             <li>Address: 360-364 City Road, London, EC1V 2PY</li>
                             <li>Phone: 020 7713 7655</li>
-                            <li>Website: <a href='http://www.hopeworldwide.org.uk'>http://www.hopeworldwide.org.uk</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.hopeworldwide.org.uk'>http://www.hopeworldwide.org.uk</a></li>
                         </ol>
                     </div>
                 </div>
@@ -52,7 +52,7 @@ class Help extends Component {
                                 34 Decima Street, London, SE1 4QQ</li>
                             <li>Phone: 020 7278 4224</li>
                             <li>Email: enquiries@als.org.uk</li>
-                            <li>Website: <a href='http://www.aloneinlondon.org'>http://www.aloneinlondon.org</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.aloneinlondon.org'>http://www.aloneinlondon.org</a></li>
                         </ol>
                     </div>
                 </div>
@@ -66,7 +66,7 @@ class Help extends Component {
                             <li>Monday - Friday: 9am - 5pm</li>
                             <li>Address: 4 Greenland Road, London, NW1 0AS</li>
                             <li>Phone: 020 3317 6590</li>
-                            <li>Website: <a href='http://www.candi.nhs.uk'>http://www.candi.nhs.uk</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.candi.nhs.uk'>http://www.candi.nhs.uk</a></li>
                         </ol>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ class Help extends Component {
                             <li>Address: Lancaster House, 70 Newington Causeway, London, SE1 6DF</li>
                             <li>Phone: 020 7275 7768</li>
                             <li>Email: barka.uk@googlemail.com</li>
-                            <li>Website: <a href='http://www.barkauk.org'>http://www.barkauk.org</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.barkauk.org'>http://www.barkauk.org</a></li>
                         </ol>
                     </div>
                 </div>

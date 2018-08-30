@@ -19,7 +19,7 @@ class Washing extends Component {
                             <li>Address: 69 Talgarth Road, London, W14 9DD</li>
                             <li>Phone: 020 7603 5232</li>
                             <li>Email: michael@baronscourtproject.org</li>
-                            <li>Website: <a href='http://www.baronscourtproject.org'>http://www.baronscourtproject.org</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.baronscourtproject.org'>http://www.baronscourtproject.org</a></li>
                         </ol>
                     </div>
                     <div className='item'>
@@ -33,7 +33,7 @@ class Washing extends Component {
                             <li>Address: St Alphonsus Road, London, SW4 7AS</li>
                             <li>Phone: 020 7720 2811</li>
                             <li>Email: sarahmiles@aceofclubs.org.uk</li>
-                            <li>Website: <a href='http://www.aceofclubs.org.uk'>http://www.aceofclubs.org.uk</a></li>
+                            <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.aceofclubs.org.uk'>http://www.aceofclubs.org.uk</a></li>
                         </ol>
                     </div>
                 </div>
