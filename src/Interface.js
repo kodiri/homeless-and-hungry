@@ -41,7 +41,7 @@ class Interface extends Component {
               Find accommodation within London.</p>
             </div>
             <Link to='/accomodation'>
-            <div className="Btn"><label>Find Accommodation</label></div>
+              <div className="Btn"><label>Find Accommodation</label></div>
             </Link>
           </div>
 
@@ -58,8 +58,8 @@ class Interface extends Component {
             </div>
             <div>
               <Link to='/food'>
-            <div className="Btn"><label>Find Food</label></div>
-            </Link>
+                <div className="Btn"><label>Find Food</label></div>
+              </Link>
             </div>
 
           </div>
@@ -78,8 +78,8 @@ class Interface extends Component {
             </div>
             <div>
               <Link to='/clothing'>
-            <div className="Btn"><label>Find Clothing</label></div>
-            </Link>
+                <div className="Btn"><label>Find Clothing</label></div>
+              </Link>
             </div>
           </div>
 
@@ -96,8 +96,8 @@ class Interface extends Component {
             </div>
             <div>
               <Link to='/washing'>
-            <div className="Btn"><label>Find Washing Facilities</label></div>
-            </Link>
+                <div className="Btn"><label>Find Washing Facilities</label></div>
+              </Link>
             </div>
           </div>
         </div>
@@ -115,9 +115,9 @@ class Interface extends Component {
             </p>
             </div>
             <div>
-            <Link to='/medical'>
-            <div className="Btn"><label>Find Medical Services</label></div>
-            </Link>
+              <Link to='/medical'>
+                <div className="Btn"><label>Find Medical Services</label></div>
+              </Link>
             </div>
           </div>
           <div className="box">
@@ -132,8 +132,8 @@ class Interface extends Component {
             </div>
             <div>
               <Link to='/help'>
-            <div className="Btn"><label>Find Help & Assistance</label></div>
-            </Link>
+                <div className="Btn"><label>Find Help & Assistance</label></div>
+              </Link>
             </div>
           </div>
         </div>
@@ -141,7 +141,16 @@ class Interface extends Component {
         <div className="MasterBox">
           <div className="box">
             <div><h1 className="IntroText">Built on the Kodiri Bootcamp</h1>
-            <div><h1 className="IntroText">Aaron King | Viktoriya Emilova | David Smith </h1></div>
+              <div><h1 className="IntroText">
+              <a target="_blank"
+                rel="noopener noreferrer"
+                href='https://www.linkedin.com/in/aaron-king-420266167/'>
+                Aaron King</a> |&nbsp; 
+              Viktoriya Emilova |&nbsp;  
+                <a target="_blank"
+                  rel="noopener noreferrer"
+                  href='https://www.linkedin.com/in/david-smith-62b0aa169/'>
+                  David Smith</a> </h1></div>
             </div>
           </div>
         </div>
