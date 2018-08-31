@@ -13,7 +13,7 @@ class Clothing extends Component {
                         <div><h1 className="IntroText">To return to the main menu click on the button at the bottom of the page.</h1>
                             <div className='ClothingItems'>
                                 <div className='item'>
-                                    <h4>The St Leonard’s Church</h4>
+                                    <h5>The St Leonard’s Church</h5>
                                     <p>Our drop-in provides: hot and cold food and drink,
                                         cooked breakfast once a week,
                                         cooked lunch once a week,
@@ -27,7 +27,7 @@ class Clothing extends Component {
                                     </ol>
                                 </div>
                                 <div className='item'>
-                                    <h4>At the TAB Centre</h4>
+                                    <h5>At the TAB Centre</h5>
                                     <p>Our drop-in provides: hot and cold food and drink,
                                         cooked breakfast once a week,
                                         cooked lunch once a week,

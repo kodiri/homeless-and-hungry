@@ -42,7 +42,6 @@
     font-weight: bold;
     color: gold;
  }
-
  .Icon{
     height: 40%;
     width: 40%;
@@ -50,4 +49,16 @@
     text-align: center;
     display:block;
 }
- 
+
+.item h5{
+    margin: 20px 20px 20px 20px;
+    padding: 20;
+    font-size: medium;
+    text-emphasis: strong;
+    color: blue;
+    text-align: left;
+}
+.item p{
+    margin: 20px 20px 20px 20px;
+    padding: 20;
+}

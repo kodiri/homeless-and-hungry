@@ -1,19 +1,19 @@
 import React, { Component } from 'react';
-import './Medical.css';
+import './results.css';
 import MedicalIcon from './Icons/MedicalIcon.svg';
 import { Link } from 'react-router-dom';
 
 class Medical extends Component {
     render() {
         return (
-            <div className="App">
+            <div>
                 <img src={MedicalIcon} className="Icon" alt="Medical Icon" />
                 <div><h1 className="MainHeading">Medical</h1>
                     <div><h1 className="IntroText">Here are your search results for Medical.</h1>
                         <div><h1 className="IntroText">To return to the main menu click on the button at the bottom of the page.</h1>
-                            <div className='MecdicalItems'>
+                            <div className='AccommodationItems'>
                                 <div className='item'>
-                                    <h4>Kings Cross Primary Health Care Centre</h4>
+                                    <h5>Kings Cross Primary Health Care Centre</h5>
                                     <p>Drop-in primary health care service for homeless people. Doctor and nurse available.
                                       Referrals to drug and alcohol services and GPs. Sexual health screening, HIV and hepatitis testing, hepatitis vaccination.
                           Shower and clothes store for people using the medical facilities.</p>
@@ -23,7 +23,7 @@ class Medical extends Component {
                                     </ol>
                                 </div>
                                 <div className='item'>
-                                    <h4>Camden Health Improvement Practice</h4>
+                                    <h5>Camden Health Improvement Practice</h5>
                                     <p>Primary health care sessions at day centres and hostels throughout Camden. Health assessment and general health care.
                                       Well women checks. Hepatitis and HIV screening. Dental service.
                                       Alcohol and drug advice and treatment.
@@ -37,7 +37,7 @@ class Medical extends Component {
                                     </ol>
                                 </div>
                                 <div className='item'>
-                                    <h4>Great Chapel Street Medical Centre</h4>
+                                    <h5>Great Chapel Street Medical Centre</h5>
                                     <p>Walk-in medical centre for homeless people in Westminster not registered with a doctor.
                           GP and nurse available during opening hours.</p>
                                     <ol>
@@ -49,8 +49,8 @@ class Medical extends Component {
                                         <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.greatchapelst.org.uk'>http://www.greatchapelst.org.uk</a></li>
                                     </ol>
                                 </div>
-                                <div classname='item'>
-                                    <h4>The Dr Hickey Surgery</h4>
+                                <div className='item'>
+                                    <h5>The Dr Hickey Surgery</h5>
                                     <p>Drop-in primary health care service for homeless people.
                                       Fully equipped medical room, with full time GP and practice nurse.
                                       CPN. Access to a psychiatrist.
@@ -63,7 +63,7 @@ class Medical extends Component {
                                     </ol>
                                 </div>
                                 <div className='item'>
-                                    <h4>Joint Homelessness Team (JHT) - Westminster</h4>
+                                    <h5>Joint Homelessness Team (JHT) - Westminster</h5>
                                     <p>Support and housing advice for people with mental health problems who are using homelessness agencies,
                                       and for street homeless people. Assessments for community care and referrals to appropriate agencies.
                           The team includes social workers, CPNs and psychiatrists.</p>
