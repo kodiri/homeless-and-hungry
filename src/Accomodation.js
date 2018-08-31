@@ -1,5 +1,5 @@
 import React from 'react';
-import './Results.css';
+import './results.css';
 import { Link } from 'react-router-dom';
 import AccommodationIcon from './Icons/AccommodationIcon.svg';
 
