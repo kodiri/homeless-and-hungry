@@ -13,7 +13,7 @@ class Washing extends Component {
                         <div><h1 className="IntroText">To return to the main menu click on the button at the bottom of the page.</h1>
                             <div className='WashingItems'>
                                 <div className='item'>
-                                    <h4>Barons Court Project</h4>
+                                    <h5>Barons Court Project</h5>
                                     <p>Day centre for people vulnerable due to mental ill-health and/or homelessness.
                                         Tenancy sustainment support. Cost-price cafe, laundry and shower facilities available on drop-in days.
                                         Life skills training Thursday 2pm-5pm. Women's Group Fri 12 noon-2pm. Green Palm Club (BME social group)
@@ -27,7 +27,7 @@ class Washing extends Component {
                                     </ol>
                                 </div>
                                 <div className='item'>
-                                    <h4>Ace of Clubs</h4>
+                                    <h5>Ace of Clubs</h5>
                                     <p>Day centre for the homeless, vulnerable and others in need.
                                         Cheap meals, access to physical and mental health care, laundry, shower facilities.
                                         Advice on benefits and housing Monday-Friday. Advice on finding accommodation.

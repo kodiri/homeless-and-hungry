@@ -1,5 +1,5 @@
 import React from 'react';
-import './Results.css';
+import './results.css';
 import { Link } from 'react-router-dom';
 import AccommodationIcon from './Icons/AccommodationIcon.svg';
 
@@ -48,7 +48,7 @@ export default class Accommodation extends React.Component {
                                         <li>Website: <a target="_blank" rel="noopener noreferrer" href='http://www.kairoscommunity.org.uk/'>http://www.kairoscommunity.org.uk/</a></li>
                                     </ol>
                                 </div>
-                                <div classname='item'>
+                                <div className='item'>
                                     <h5>SIMON COMMUNITY (HOUSE OF HOSPITALITY)</h5>
                                     <p>A therapeutic community where formerly homeless residents work with volunteers to take outreach
                     support to street homeless guests. Clothing from the street cafe when available.</p>
